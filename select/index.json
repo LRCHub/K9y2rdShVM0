@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アジンガマサラ（feat. RRR）",
+  "base_artist": "レヴィ・エリファ",
+  "createdAt": "2025-12-20T01:05:29.541516Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アジンガマサラ (feat. RRR)",
+      "artist": "レヴィ・エリファ",
+      "has_synced": false,
+      "path": "select/pl_01_アジンガマサラ_(feat._RRR)_レヴィ・エリファ.txt"
+    }
+  ]
+}
